@@ -377,7 +377,8 @@
     background: none;
     color: #017672;
     display: flex;
-    float: left;
+    position: fixed;
+    left: 0%;
 }
 
 .ethan{
@@ -421,7 +422,8 @@
     background: none;
     color: #017672;
     display: flex;
-    float: center;
+    position: fixed;
+    left: 50%;
 }
 
 .character-list-ethan{
@@ -1635,7 +1637,8 @@
     color: #017672;
     background: none;
     display: flex;
-    float: right;
+    position: fixed;
+    right: 0%;
 }
 
 .links-ethan{
