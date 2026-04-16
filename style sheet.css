@@ -413,6 +413,7 @@
     text-shadow: 2px 2px black;
     cursor: context-menu;
     background-color: rgb(1, 45, 43);
+    font-size: 13;
 }
 
 #ethan-button{
