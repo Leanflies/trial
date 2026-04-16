@@ -376,19 +376,7 @@
 .ethan-key-facts{
     background: none;
     color: #017672;
-   /* display: block;
-    justify-content: center;
-    position: fixed;
-    top: 205;
-    left: 425;
-    padding-left: 5%;
-    padding-right: 5%;
-    border-radius: 6px;
-    color: #017672;
-    text-shadow: 2px 2px black;
-    width: 310;
-    max-length: 200;
-    cursor: context-menu;*/
+    float: left;
 }
 
 .ethan{
@@ -431,17 +419,7 @@
 .ethan-other{
     background: none;
     color: #017672;
-   /* display: block;
-    justify-content: center;
-    position: fixed;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-    border-radius: 6px;
-    text-shadow: 2px 2px black;
-    cursor: context-menu;
-    top: 120;
-    left: 775;
-    font-size: 13px; */
+    float: centre;
 }
 
 .character-list-ethan{
@@ -1654,19 +1632,7 @@
 .credits-ethan{
     color: #017672;
     background: none;
-   /* display: flex;
-    justify-content: center;
-    position: fixed;
-    top: 468;
-    right: 250;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-    border-radius: 6px;
-    text-shadow: 2px 2px black;
-    height: 175;
-    max-width: 400px;
-    font-size: 12px;
-    cursor: context-menu; */
+    float: right;
 }
 
 .links-ethan{
