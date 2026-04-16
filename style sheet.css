@@ -411,8 +411,6 @@
     border-radius: 6px;
     color: #017672;
     text-shadow: 2px 2px black;
-    width: 310;
-    max-length: 200;
     cursor: context-menu;
     background-color: rgb(1, 45, 43);
 }
