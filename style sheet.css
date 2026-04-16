@@ -376,7 +376,7 @@
 .ethan-key-facts{
     background: none;
     color: #017672;
-    float: left;
+    flex-grow: 1;
 }
 
 .ethan{
@@ -390,7 +390,7 @@
 
 .ethan-facts{
     display: block;
-    justify-content: center;
+    justify-content: justify-around;
     position: fixed;
     top: 205;
     left: 425;
@@ -419,7 +419,7 @@
 .ethan-other{
     background: none;
     color: #017672;
-    float: centre;
+    flex-grow: 1;
 }
 
 .character-list-ethan{
@@ -1632,7 +1632,7 @@
 .credits-ethan{
     color: #017672;
     background: none;
-    float: right;
+    flex-grow: 1;
 }
 
 .links-ethan{
