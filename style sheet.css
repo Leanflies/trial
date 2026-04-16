@@ -402,6 +402,7 @@
     cursor: context-menu;
     background-color: rgb(1, 45, 43);
     font-size: 13;
+    max-width: 500px;
 }
 
 #ethan-button{
