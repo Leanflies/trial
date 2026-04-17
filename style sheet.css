@@ -379,6 +379,7 @@
     position: fixed;
     max-width: 200;
     justify-content: space-evenly;
+    justify-items: start;
 }
 
 .ethan{
@@ -419,6 +420,7 @@
     position: fixed;
     max-width: 200;
     justify-content: space-evenly;
+    justify-items: start;
 }
 
 .character-list-ethan{
@@ -1634,6 +1636,7 @@
     position: fixed;
     max-width: 200;
     justify-content: space-evenly;
+    justify-items: start;
 }
 
 .links-ethan{
