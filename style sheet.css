@@ -375,9 +375,11 @@
 
 .ethan-key-facts{
     color: #017672;
-    display: block;
+    display: flex;
     position: fixed;
     max-width: 200;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .ethan{
@@ -402,7 +404,6 @@
     background-color: rgb(1, 45, 43);
     font-size: 13;
     max-width: 600px;
-    flex-direction: row;
 }
 
 #ethan-button{
@@ -419,9 +420,11 @@
 
 .ethan-other{
     color: #017672;
-    display: block;
+    display: flex;
     position: fixed;
     max-width: 200;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .character-list-ethan{
@@ -1633,9 +1636,11 @@
 
 .credits-ethan{
     color: #017672;
-    display: block;
+    display: flex;
     position: fixed;
     max-width: 200;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .links-ethan{
