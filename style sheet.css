@@ -376,6 +376,7 @@
 .ethan-key-facts{
     color: #017672;
     display: block; 
+    padding: .25%;
 }
 
 .ethan{
@@ -416,6 +417,7 @@
 .ethan-other{
     color: #017672;
     display: block; 
+    padding: .25%;
 }
 
 .character-list-ethan{
@@ -1628,6 +1630,7 @@
 .credits-ethan{
     color: #017672;
     display: block; 
+    padding: .25%;
 }
 
 .links-ethan{
