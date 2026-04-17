@@ -377,7 +377,7 @@
     color: #017672;
     display: block;
     position: fixed;
-    left: 25%;
+    max-width: 200;
 }
 
 .ethan{
@@ -401,7 +401,7 @@
     cursor: context-menu;
     background-color: rgb(1, 45, 43);
     font-size: 13;
-    max-width: 500px;
+    max-width: 600px;
 }
 
 #ethan-button{
@@ -420,7 +420,7 @@
     color: #017672;
     display: block;
     position: fixed;
-    left: 50%;
+    max-width: 200;
 }
 
 .character-list-ethan{
@@ -1634,7 +1634,7 @@
     color: #017672;
     display: block;
     position: fixed;
-    left: 75%;
+    max-width: 200;
 }
 
 .links-ethan{
