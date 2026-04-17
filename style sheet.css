@@ -399,7 +399,7 @@
     background-color: rgb(1, 45, 43);
     max-width: 600px;
     justify-content: space-evenly;
-    max-height: 500px;
+    height: 250px;
 }
 
 #ethan-button{
