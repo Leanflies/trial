@@ -404,6 +404,7 @@
     justify-content: space-evenly;
     max-height: 500px;
     overflow-y: auto;
+    left: 5;
 }
 
 .ethan-facts ul {
