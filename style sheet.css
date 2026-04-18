@@ -404,7 +404,24 @@
     justify-content: space-evenly;
     max-height: 500px;
     overflow-y: auto;
-    right: 50%;
+    right: 350px;
+}
+
+.ethan-facts::-webkit-scrollbar {
+    width: 10px;
+}
+
+.ethan-facts::-webkit-scrollbar-track {
+    background: rgb(1, 45, 43); 
+}
+
+.ethan-facts::-webkit-scrollbar-thumb {
+    background: #017672;        
+    border-radius: 6px;
+}
+
+.ethan-facts::-webkit-scrollbar-thumb:hover {
+    background: #019a95;
 }
 
 .ethan-facts ul {
