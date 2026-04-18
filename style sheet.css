@@ -389,7 +389,7 @@
 }
 
 .ethan-facts{
-    position: relative;
+    position: fixed;
     display: flex;
     flex-wrap: wrap; 
     gap: 20px;
@@ -404,6 +404,7 @@
     justify-content: space-evenly;
     max-height: 500px;
     overflow-y: auto;
+    left: 200px;
 }
 
 .ethan-facts ul {
